@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N3l20
+- 👋 Hi, I’m N3l
 - 👀 I’m interested in Videogames and coding(off course)
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on anything ;)
